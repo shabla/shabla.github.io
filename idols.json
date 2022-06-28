@@ -294,6 +294,10 @@
           {
             "level": 2,
             "desc": ""
+          },
+          {
+            "level": 3,
+            "desc": ""
           }
         ]
       },
@@ -303,6 +307,10 @@
         "levels": [
           {
             "level": 2,
+            "desc": ""
+          },
+          {
+            "level": 3,
             "desc": ""
           }
         ]
@@ -314,6 +322,10 @@
           {
             "level": 2,
             "desc": "If Kiara has not taken any damage for 10 seconds, the next two hits taken is halved and stay invulnerable for 0.5 seconds."
+          },
+          {
+            "level": 3,
+            "desc": ""
           }
         ]
       }
@@ -500,6 +512,26 @@
         {
           "level": 2,
           "desc": ""
+        },
+        {
+          "level": 3,
+          "desc": ""
+        },
+        {
+          "level": 4,
+          "desc": ""
+        },
+        {
+          "level": 5,
+          "desc": ""
+        },
+        {
+          "level": 6,
+          "desc": ""
+        },
+        {
+          "level": 7,
+          "desc": ""
         }
       ]
     },
@@ -511,15 +543,9 @@
           {
             "level": 2,
             "desc": ""
-          }
-        ]
-      },
-      {
-        "name": "",
-        "desc": "",
-        "levels": [
+          },
           {
-            "level": 2,
+            "level": 3,
             "desc": ""
           }
         ]
@@ -530,6 +556,24 @@
         "levels": [
           {
             "level": 2,
+            "desc": ""
+          },
+          {
+            "level": 3,
+            "desc": ""
+          }
+        ]
+      },
+      {
+        "name": "",
+        "desc": "",
+        "levels": [
+          {
+            "level": 2,
+            "desc": ""
+          },
+          {
+            "level": 3,
             "desc": ""
           }
         ]
@@ -551,6 +595,26 @@
         {
           "level": 2,
           "desc": ""
+        },
+        {
+          "level": 3,
+          "desc": ""
+        },
+        {
+          "level": 4,
+          "desc": ""
+        },
+        {
+          "level": 5,
+          "desc": ""
+        },
+        {
+          "level": 6,
+          "desc": ""
+        },
+        {
+          "level": 7,
+          "desc": ""
         }
       ]
     },
@@ -562,15 +626,9 @@
           {
             "level": 2,
             "desc": ""
-          }
-        ]
-      },
-      {
-        "name": "",
-        "desc": "",
-        "levels": [
+          },
           {
-            "level": 2,
+            "level": 3,
             "desc": ""
           }
         ]
@@ -581,6 +639,24 @@
         "levels": [
           {
             "level": 2,
+            "desc": ""
+          },
+          {
+            "level": 3,
+            "desc": ""
+          }
+        ]
+      },
+      {
+        "name": "",
+        "desc": "",
+        "levels": [
+          {
+            "level": 2,
+            "desc": ""
+          },
+          {
+            "level": 3,
             "desc": ""
           }
         ]
@@ -602,6 +678,26 @@
         {
           "level": 2,
           "desc": ""
+        },
+        {
+          "level": 3,
+          "desc": ""
+        },
+        {
+          "level": 4,
+          "desc": ""
+        },
+        {
+          "level": 5,
+          "desc": ""
+        },
+        {
+          "level": 6,
+          "desc": ""
+        },
+        {
+          "level": 7,
+          "desc": ""
         }
       ]
     },
@@ -613,6 +709,10 @@
           {
             "level": 2,
             "desc": ""
+          },
+          {
+            "level": 3,
+            "desc": ""
           }
         ]
       },
@@ -623,6 +723,10 @@
           {
             "level": 2,
             "desc": ""
+          },
+          {
+            "level": 3,
+            "desc": ""
           }
         ]
       },
@@ -632,6 +736,10 @@
         "levels": [
           {
             "level": 2,
+            "desc": ""
+          },
+          {
+            "level": 3,
             "desc": ""
           }
         ]
@@ -653,6 +761,26 @@
         {
           "level": 2,
           "desc": ""
+        },
+        {
+          "level": 3,
+          "desc": ""
+        },
+        {
+          "level": 4,
+          "desc": ""
+        },
+        {
+          "level": 5,
+          "desc": ""
+        },
+        {
+          "level": 6,
+          "desc": ""
+        },
+        {
+          "level": 7,
+          "desc": ""
         }
       ]
     },
@@ -664,15 +792,9 @@
           {
             "level": 2,
             "desc": ""
-          }
-        ]
-      },
-      {
-        "name": "",
-        "desc": "",
-        "levels": [
+          },
           {
-            "level": 2,
+            "level": 3,
             "desc": ""
           }
         ]
@@ -683,6 +805,24 @@
         "levels": [
           {
             "level": 2,
+            "desc": ""
+          },
+          {
+            "level": 3,
+            "desc": ""
+          }
+        ]
+      },
+      {
+        "name": "",
+        "desc": "",
+        "levels": [
+          {
+            "level": 2,
+            "desc": ""
+          },
+          {
+            "level": 3,
             "desc": ""
           }
         ]
